@@ -1,0 +1,37 @@
+# Core numerical computing
+numpy>=1.26
+scipy>=1.12
+pandas>=2.2
+
+# Astronomy
+astropy>=6.0
+lightkurve>=2.5
+
+# Performance
+numba>=0.59
+
+# Machine Learning
+scikit-learn>=1.5
+xgboost>=2.1
+lightgbm>=4.5
+catboost>=1.2
+
+# Deep Learning
+torch>=2.3
+torchvision>=0.18
+
+# Visualization
+matplotlib>=3.9
+
+# File formats
+pyarrow>=17.0
+fastparquet>=2024.5
+
+# Utilities
+tqdm>=4.66
+joblib>=1.4
+
+# Jupyter (optional but recommended)
+jupyter
+ipykernel
+notebook
